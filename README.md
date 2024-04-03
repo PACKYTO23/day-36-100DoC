@@ -5,4 +5,5 @@ Day 36 - Stock News Monitoring Project
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (01/04/2024); update tomorrow.
-                      (02/04/2024); update tomorrow.                    
+                      (02/04/2024); update tomorrow.
+                      (03/04/2024); update tomorrow.
